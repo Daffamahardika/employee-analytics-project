@@ -343,7 +343,7 @@ Dashboard includes:
 A link to the dashboard is stored in:
 
 ```
-/dashboard/looker_studio_link.txt
+/dashboard/[looker_studio_link](https://lookerstudio.google.com/reporting/ad908738-da77-454b-b9c4-a543e590338e).txt
 ```
 
 ---

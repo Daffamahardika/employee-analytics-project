@@ -1,2 +1,0 @@
--- DQ SQL
-SELECT 3;

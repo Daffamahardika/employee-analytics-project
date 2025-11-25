@@ -54,7 +54,15 @@ SELECT
   CONCAT (FirstName , ' ' , LastName) AS Employee_Name 
 FROM `ethereal-aria-477323-s8.Data.Employee`;
 ```
-**Output:** ![table preview](dashboard/screenshot_table1.png)
+**Output:** 
+```csv
+Employee_Name
+Adelina Bittlestone
+Phyllys Newham
+Obadiah Van Schafflaer
+Whitney Latore
+Amory Gaskall
+```
 
 **Purpose:** Improves readability by creating a single name field.
 

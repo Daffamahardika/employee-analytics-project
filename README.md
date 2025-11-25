@@ -55,7 +55,7 @@ SELECT
 FROM `ethereal-aria-477323-s8.Data.Employee`;
 ```
 **Output:** 
-![Output Table](assets/EmployeeName.png)
+![Output Table](assets/EmplyeeName.png)
 
 
 **Purpose:** Improves readability by creating a single name field.

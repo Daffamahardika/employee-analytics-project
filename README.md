@@ -55,20 +55,6 @@ SELECT
 FROM `ethereal-aria-477323-s8.Data.Employee`;
 ```
 **Output:** 
-```csv
-Employee_Name
-Adelina Bittlestone
-Phyllys Newham
-Obadiah Van Schafflaer
-Whitney Latore
-Amory Gaskall
-```
-```csv
-EmployeeID,Employee_Name,Age,Age_Group
-1,John Smith,29,25–31
-2,Anna Davis,41,39–45
-3,Mark Lee,23,18–24
-```
 
 **Purpose:** Improves readability by creating a single name field.
 

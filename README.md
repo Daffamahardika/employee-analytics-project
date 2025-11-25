@@ -55,7 +55,7 @@ SELECT
 FROM `ethereal-aria-477323-s8.Data.Employee`;
 ```
 
-📝 Explanation
+**📝 Explanation**
 
 Menggabungkan nama depan & belakang membuat data lebih mudah dibaca dalam tabel dan dashboard. Tools seperti Looker Studio lebih optimal menggunakan satu kolom Employee_Name dibanding dua kolom terpisah.
 

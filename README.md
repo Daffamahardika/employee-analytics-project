@@ -357,8 +357,7 @@ Dashboard includes:
 📊 **Dashboard Link**  
 The full Looker Studio dashboard link is stored here:
 
-👉 [dashboard/looker_studio_link.txt](dashboard/looker_studio_link.txt)
-
+➡️ [Open Dashboard in Looker Studio](https://lookerstudio.google.com/reporting/ad908738-da77-454b-b9c4-a543e590338e)
 
 ---
 

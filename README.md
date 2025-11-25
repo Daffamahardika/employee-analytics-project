@@ -55,7 +55,15 @@ SELECT
 FROM `ethereal-aria-477323-s8.Data.Employee`;
 ```
 **Output:** 
-![Output Table](assets/EmplyeeName.png)
+
+| Row | Employee_Name            |
+|-----|---------------------------|
+| 1   | Adelina Bittlestone       |
+| 2   | Phyllys Newham            |
+| 3   | Obadiah Van Schafflaer    |
+| 4   | Whitney Latore            |
+| 5   | Amory Gaskall             |
+
 
 
 **Purpose:** Improves readability by creating a single name field.

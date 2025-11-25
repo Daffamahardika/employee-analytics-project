@@ -354,11 +354,11 @@ Dashboard includes:
 * Satisfaction metrics (environment, job, relationship)
 * Performance rating breakdown
 
-A link to the dashboard is stored in:
+📊 **Dashboard Link**  
+The full Looker Studio dashboard link is stored here:
 
-```
-/dashboard/(https://lookerstudio.google.com/u/0/reporting/ad908738-da77-454b-b9c4-a543e590338e/page/McleF)
-```
+👉 [dashboard/looker_studio_link.txt](dashboard/looker_studio_link.txt)
+
 
 ---
 
@@ -384,3 +384,5 @@ This project demonstrates full workflow capabilities of a Data Analyst:
 ✔ Insight generation
 
 ---
+
+
